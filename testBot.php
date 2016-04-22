@@ -1,5 +1,5 @@
 <?php
-/**1231313131231
+/**12313131312315666666666
  * Telegram Bot access token и URL.
  */
 $access_token = '212567313:AAG_dwzdN3lxgEy78NzulSqwdvqVBLR_7gU';
